@@ -1,0 +1,9 @@
+Epoch 2 (baseline)
+  train loss=1.3202 ppl=3.74
+  val   loss=1.3475 ppl=3.85
+  val entity-hallucination-rate=0.000
+
+Epoch 2 (memory)
+  train loss=1.3160 ppl=3.73
+  val   loss=1.3404 ppl=3.82
+  val entity-hallucination-rate=0.000

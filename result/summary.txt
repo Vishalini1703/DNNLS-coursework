@@ -1,9 +1,14 @@
-Epoch 2 (baseline)
-  train loss=1.3202 ppl=3.74
-  val   loss=1.3475 ppl=3.85
-  val entity-hallucination-rate=0.000
+Epochs trained: 2
 
-Epoch 2 (memory)
-  train loss=1.3160 ppl=3.73
-  val   loss=1.3404 ppl=3.82
-  val entity-hallucination-rate=0.000
+Baseline model:
+Final validation loss (epoch 2): 1.3475
+Final validation perplexity: 3.85
+
+Memory-augmented model:
+Final validation loss (epoch 2): 1.3404
+Final validation perplexity: 3.82
+
+
+The memory-augmented model did not outperform the baseline within the limited training budget. 
+Training curves for both models were very similar.
+

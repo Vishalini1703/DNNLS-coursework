@@ -147,16 +147,16 @@ Metrics logged:
 
 | Metric | Value |
 | --- | --- |
-| Val loss | 1.3463 |
-| Val perplexity | 3.84 |
+| Val loss | 1.3475 |
+| Val perplexity | 3.85 |
 | Entity-tag generation rate | 0.000 |
 
 ### Memory model (epoch 2 best checkpoint)
 
 | Metric | Value |
 | --- | --- |
-| Val loss | 1.3555 |
-| Val perplexity | 3.88 |
+| Val loss | 1.3404 |
+| Val perplexity | 3.82 |
 | Entity-tag generation rate | 0.000 |
 
 ### Entity consistency / hallucination metrics (attempted)
